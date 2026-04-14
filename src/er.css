@@ -1,0 +1,12 @@
+#largetext {
+    size: 20px;
+}
+
+#smalltext {
+    size: 15px;
+}
+
+.er {
+    border-color: green;
+    border-radius: 10px;
+}
