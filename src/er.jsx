@@ -1,6 +1,6 @@
 import './er.css'
 
-function ter({ data, subheader }) {
+function er({ data, subheader }) {
   return (
     <div className="er">
       <h3 id = "largetext">{data}</h3>
