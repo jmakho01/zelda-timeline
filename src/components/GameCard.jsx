@@ -1,13 +1,11 @@
-import './Game.css'
-
-function Game({ title, description, image }) {
+function GameCard({ title, description, image }) {
   return (
     <div className="card">
       <h3>{title}</h3>
       <p>{description}</p>
-      <image src = {image}></image>
+      <img src = {image}></img>
     </div>
   );
 }
 
-export default Game;
+export default GameCard;
