@@ -11,3 +11,6 @@ body {
   line-height: 1.6;
 }
 
+h2, h3, p {
+  text-align: center;
+}
