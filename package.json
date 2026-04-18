@@ -2,7 +2,7 @@
   "name": "zelda-timeline",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://zeta1313.github.io/zelda-timeline",
+  "homepage": "https://jmakho01.github.io/zelda-timeline",
   "type": "module",
   "scripts": {
     "dev": "vite",
